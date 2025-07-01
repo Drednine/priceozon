@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-07-01 15:31">
+<yml_catalog date="2025-07-01 16:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -54,7 +54,7 @@
 <price>1051</price>
 </offer>
 <offer id="01-НАБ-ЭРЕК-КОЛ-ЧЕР">
-<price>1158</price>
+<price>1437</price>
 </offer>
 <offer id="01-МАСТ-ПУЛ-УПР">
 <price>2941</price>
@@ -210,7 +210,7 @@
 <price>4028</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-77436">
-<price>3163</price>
+<price>3196</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-577153">
 <price>3518</price>
@@ -515,6 +515,9 @@
 <offer id="01-ВИБ-ЖЕН-371707">
 <price>7349</price>
 </offer>
+<offer id="01-ВИБ-ЖЕН-286250">
+<price>9699</price>
+</offer>
 <offer id="01-ВИБ-ЖЕН-435401">
 <price>4055</price>
 </offer>
@@ -810,7 +813,7 @@
 <price>3114</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-573718">
-<price>3164</price>
+<price>4924</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250089">
 <price>5156</price>
