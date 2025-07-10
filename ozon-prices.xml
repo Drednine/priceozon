@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-07-10 17:31">
+<yml_catalog date="2025-07-10 18:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -28,9 +28,6 @@
 </offer>
 <offer id="01-ЗАВ-ЧАЙ">
 <price>1882</price>
-</offer>
-<offer id="01-НОЖ-ПОВ-ДЕШ">
-<price>1828</price>
 </offer>
 <offer id="01-БОК-ДЛЯ-ВИСКИ">
 <price>1880</price>
@@ -981,7 +978,7 @@
 <price>2273</price>
 </offer>
 <offer id="01-ВИБ-Н1-ОЗОН-СФ">
-<price>7520</price>
+<price>10639</price>
 </offer>
 <offer id="01-ВИБ-ДАБЛ-ДЖО-ДИС-ОЗОН-СФ">
 <price>14865</price>
