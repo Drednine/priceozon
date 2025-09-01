@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-09-01 14:31">
+<yml_catalog date="2025-09-01 15:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -18,7 +18,7 @@
 <price>3827</price>
 </offer>
 <offer id="01-ВИБ-ПРО+ДЖИ-ОЗОН-СФ">
-<price>19822</price>
+<price>23027</price>
 </offer>
 <offer id="01-БОК-ДЛЯ-ВИНА">
 <price>1316</price>
@@ -921,7 +921,7 @@
 <price>4782</price>
 </offer>
 <offer id="01-ВИБ-Н1-ОЗОН-СФ">
-<price>10330</price>
+<price>11932</price>
 </offer>
 <offer id="01-ВИБ-ДАБЛ-ДЖО-ДИС-ОЗОН-СФ">
 <price>14994</price>
@@ -930,19 +930,19 @@
 <price>17735</price>
 </offer>
 <offer id="01-ВИБ-ТРАВЕЛ-ОЗОН-СФ">
-<price>15084</price>
+<price>17489</price>
 </offer>
 <offer id="01-МЧ-ФИЛ-ОЗОН-СФ">
 <price>3285</price>
 </offer>
 <offer id="01-ВИБ-ДАБЛ-ДЖО-ЧЕР-ДИС-ОЗОН-СФ">
-<price>14994</price>
+<price>17399</price>
 </offer>
 <offer id="01-КУТ-ХАТ-ГОЛ-ОЗОН-СФ">
 <price>11167</price>
 </offer>
 <offer id="01-КУТ-ХАТ-РОЗ-ОЗОН-СФ">
-<price>12617</price>
+<price>14621</price>
 </offer>
 <offer id="01-ВИБ-РОЗ-КОЛЕС">
 <price>2154</price>
