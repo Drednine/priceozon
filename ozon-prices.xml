@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-17 15:31">
+<yml_catalog date="2025-10-17 16:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -39,10 +39,10 @@
 <price>3240</price>
 </offer>
 <offer id="01-НАБ-ЭРЕК-КОЛ-ГЛАД">
-<price>1012</price>
+<price>1160</price>
 </offer>
 <offer id="01-ЭРЕК-КОЛ-ДЫМ-ПОНЧ">
-<price>1068</price>
+<price>1237</price>
 </offer>
 <offer id="01-НАБ-ЭРЕК-КОЛ-ЧЕР">
 <price>1320</price>
@@ -66,7 +66,7 @@
 <price>4769</price>
 </offer>
 <offer id="01-ИНТ-ГЕЛ-ОГОН-ЗАЛЮБ">
-<price>1043</price>
+<price>1163</price>
 </offer>
 <offer id="01-МАСК-ДЛЯ-БДСМ-ЛГ">
 <price>783</price>
@@ -291,7 +291,7 @@
 <price>2306</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-511186">
-<price>4612</price>
+<price>6092</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549490">
 <price>10044</price>
@@ -390,7 +390,7 @@
 <price>16324</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-573736">
-<price>13016</price>
+<price>14078</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-579376">
 <price>11838</price>
@@ -612,7 +612,7 @@
 <price>6853</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-549489">
-<price>12229</price>
+<price>16442</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-286054">
 <price>10918</price>
@@ -774,7 +774,7 @@
 <price>14278</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-231060">
-<price>4480</price>
+<price>5876</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-275917">
 <price>4261</price>
