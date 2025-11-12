@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-12 08:31">
+<yml_catalog date="2025-11-12 09:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -69,22 +69,22 @@
 <price>1028</price>
 </offer>
 <offer id="01-МАСК-ДЛЯ-БДСМ-ЛГ">
-<price>783</price>
+<price>782</price>
 </offer>
 <offer id="01-ЗОЛ-ФАЛОС">
 <price>3072</price>
 </offer>
 <offer id="01-МАСК-ДЛЯ-БДСМ-ДР-ЛГ">
-<price>1273</price>
+<price>1268</price>
 </offer>
 <offer id="01-ДОР-КРА-ВИБ-ЛГ">
-<price>8043</price>
+<price>7990</price>
 </offer>
 <offer id="01-ДОР-ФИОЛ-ВИБ-ЛГ">
-<price>8043</price>
+<price>7990</price>
 </offer>
 <offer id="01-ДОР-ЧЕР-ВИБ-ЛГ">
-<price>8043</price>
+<price>7990</price>
 </offer>
 <offer id="01-НАС-НА-ЧЛ-РЕБ-ОЗОН-КОЛ">
 <price>1125</price>
@@ -195,10 +195,10 @@
 <price>2794</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-241708">
-<price>8160</price>
+<price>8012</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-275924">
-<price>4126</price>
+<price>4102</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-77436">
 <price>3130</price>
@@ -330,7 +330,7 @@
 <price>3860</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250094">
-<price>5288</price>
+<price>5255</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-94203">
 <price>10613</price>
@@ -405,7 +405,7 @@
 <price>3598</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-219559">
-<price>3339</price>
+<price>3320</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-233253">
 <price>4550</price>
@@ -444,7 +444,7 @@
 <price>12087</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-149928">
-<price>1102</price>
+<price>1100</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-102021">
 <price>2873</price>
@@ -486,7 +486,7 @@
 <price>2761</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-219558">
-<price>3339</price>
+<price>3320</price>
 </offer>
 <offer id="01-ВИБ-ЛИТ-СИК-СФ">
 <price>18585</price>
@@ -540,7 +540,7 @@
 <price>2760</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-132264">
-<price>6143</price>
+<price>6104</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-333153">
 <price>17375</price>
@@ -555,7 +555,7 @@
 <price>13850</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-149931">
-<price>1095</price>
+<price>1092</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-435788">
 <price>9995</price>
@@ -636,10 +636,10 @@
 <price>12695</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-149929">
-<price>1301</price>
+<price>1298</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-132263">
-<price>7432</price>
+<price>7385</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-87942">
 <price>8407</price>
@@ -669,7 +669,7 @@
 <price>4787</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-232341">
-<price>3072</price>
+<price>3055</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549614">
 <price>11583</price>
@@ -729,7 +729,7 @@
 <price>3527</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250091">
-<price>3302</price>
+<price>3284</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-536389">
 <price>30963</price>
@@ -747,13 +747,13 @@
 <price>9175</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-219557">
-<price>2870</price>
+<price>2854</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-573718">
 <price>3870</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250089">
-<price>3302</price>
+<price>3284</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-579379">
 <price>10029</price>
@@ -777,13 +777,13 @@
 <price>3426</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-275917">
-<price>4261</price>
+<price>4237</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-510848">
 <price>3094</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250090">
-<price>3302</price>
+<price>3284</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-510988">
 <price>3350</price>
@@ -861,7 +861,7 @@
 <price>9046</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250086">
-<price>3302</price>
+<price>3284</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-280010">
 <price>16454</price>
@@ -870,7 +870,7 @@
 <price>2776</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250087">
-<price>3302</price>
+<price>3284</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-442948">
 <price>5682</price>
@@ -885,7 +885,7 @@
 <price>2835</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250088">
-<price>3302</price>
+<price>3284</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-352064">
 <price>17139</price>
