@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-11-17 15:31">
+<yml_catalog date="2025-11-17 16:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -406,6 +406,9 @@
 </offer>
 <offer id="01-ВИБ-МИНИ-219559">
 <price>3320</price>
+</offer>
+<offer id="01-ВИБ-МИНИ-180870">
+<price>3007</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-233253">
 <price>4550</price>
