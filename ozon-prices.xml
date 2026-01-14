@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-14 09:31">
+<yml_catalog date="2026-01-14 10:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
-<price>1612</price>
+<price>1657</price>
 </offer>
 <offer id="01-НАС-НА-ЧЛ-КЛИТ-ОЗОН-ПРОЗ">
 <price>1211</price>
@@ -102,13 +102,13 @@
 <price>3775</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-573737">
-<price>9705</price>
+<price>9823</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-53267">
 <price>9092</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-573794">
-<price>3172</price>
+<price>3203</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-490268">
 <price>17087</price>
@@ -126,7 +126,7 @@
 <price>5097</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549650">
-<price>11949</price>
+<price>12099</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549643">
 <price>4410</price>
@@ -159,7 +159,7 @@
 <price>18218</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-549530">
-<price>6063</price>
+<price>6134</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-84284">
 <price>6832</price>
@@ -177,7 +177,7 @@
 <price>11156</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-549627">
-<price>14396</price>
+<price>14552</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-139530">
 <price>8578</price>
@@ -213,13 +213,13 @@
 <price>4026</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-549609">
-<price>4479</price>
+<price>4531</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-118714">
 <price>9675</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-489884">
-<price>4479</price>
+<price>4531</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-457474">
 <price>28327</price>
@@ -264,7 +264,7 @@
 <price>22983</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-550546">
-<price>13537</price>
+<price>13678</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-577152">
 <price>3737</price>
@@ -282,19 +282,19 @@
 <price>3260</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-549610">
-<price>4479</price>
+<price>4531</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-39739">
 <price>4826</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-435758">
-<price>2316</price>
+<price>2335</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-511186">
 <price>4689</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549490">
-<price>12427</price>
+<price>12566</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-573947">
 <price>17704</price>
@@ -318,7 +318,7 @@
 <price>10950</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-577592">
-<price>8878</price>
+<price>8985</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-105466">
 <price>3230</price>
@@ -336,7 +336,7 @@
 <price>10403</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549652">
-<price>7575</price>
+<price>7667</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549647">
 <price>4410</price>
@@ -348,10 +348,10 @@
 <price>17575</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-579520">
-<price>4279</price>
+<price>4327</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549613">
-<price>11912</price>
+<price>12059</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-275918">
 <price>4299</price>
@@ -363,7 +363,7 @@
 <price>21912</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-573795">
-<price>3172</price>
+<price>3203</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-180869">
 <price>3241</price>
@@ -414,7 +414,7 @@
 <price>23071</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-549616">
-<price>13537</price>
+<price>13678</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-141239">
 <price>2780</price>
@@ -426,7 +426,7 @@
 <price>4634</price>
 </offer>
 <offer id="01-ВИБ-ДВОЙ-549528">
-<price>5311</price>
+<price>5372</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-165058">
 <price>17001</price>
@@ -435,7 +435,7 @@
 <price>4702</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549531">
-<price>7402</price>
+<price>7492</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-579518">
 <price>4331</price>
@@ -453,13 +453,13 @@
 <price>22916</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250565">
-<price>4854</price>
+<price>4905</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-66370">
 <price>9299</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-549638">
-<price>4479</price>
+<price>4531</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-460051">
 <price>9992</price>
@@ -504,10 +504,10 @@
 <price>13140</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-435400">
-<price>4904</price>
+<price>4961</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549533">
-<price>5309</price>
+<price>5369</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-334206">
 <price>3324</price>
@@ -585,10 +585,10 @@
 <price>1842</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-286271">
-<price>6063</price>
+<price>6134</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-489896">
-<price>11713</price>
+<price>11858</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-236466">
 <price>9679</price>
@@ -603,7 +603,7 @@
 <price>2886</price>
 </offer>
 <offer id="01-ВИБ-МИНИ-489886">
-<price>4479</price>
+<price>4531</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-40774">
 <price>9724</price>
@@ -648,7 +648,7 @@
 <price>8324</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-510930">
-<price>8218</price>
+<price>8316</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-381665">
 <price>13140</price>
@@ -663,10 +663,10 @@
 <price>3558</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-286683">
-<price>3293</price>
+<price>3324</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-286599">
-<price>4854</price>
+<price>4905</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-88105">
 <price>4147</price>
@@ -675,16 +675,16 @@
 <price>3192</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549614">
-<price>9228</price>
+<price>9340</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549534">
-<price>10215</price>
+<price>10342</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-39694">
 <price>4317</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-577593">
-<price>8878</price>
+<price>8985</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-333151">
 <price>20269</price>
@@ -708,7 +708,7 @@
 <price>3081</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-549529">
-<price>6063</price>
+<price>6134</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-118717">
 <price>3741</price>
@@ -717,7 +717,7 @@
 <price>7124</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-435787">
-<price>7637</price>
+<price>7729</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-102024">
 <price>2844</price>
@@ -744,7 +744,7 @@
 <price>2619</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-573718">
-<price>3797</price>
+<price>3837</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250089">
 <price>3035</price>
@@ -780,7 +780,7 @@
 <price>4867</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-510852">
-<price>3526</price>
+<price>3563</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-102028">
 <price>2608</price>
@@ -789,7 +789,7 @@
 <price>8739</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549649">
-<price>14486</price>
+<price>14668</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-574709">
 <price>8370</price>
@@ -804,7 +804,7 @@
 <price>2261</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-579736">
-<price>3172</price>
+<price>3203</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-165044">
 <price>8189</price>
@@ -819,7 +819,7 @@
 <price>8181</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-286685">
-<price>3584</price>
+<price>3619</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-105480">
 <price>8713</price>
@@ -858,7 +858,7 @@
 <price>5856</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-577590">
-<price>13431</price>
+<price>13598</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-420807">
 <price>13669</price>
@@ -876,7 +876,7 @@
 <price>4405</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-510929">
-<price>3662</price>
+<price>3702</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-109364">
 <price>5904</price>
