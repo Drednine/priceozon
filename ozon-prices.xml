@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-29 11:31">
+<yml_catalog date="2026-01-29 12:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -81,7 +81,7 @@
 <price>1201</price>
 </offer>
 <offer id="01-МАСК-ДЛЯ-БДСМ-ЛГ">
-<price>873</price>
+<price>863</price>
 </offer>
 <offer id="01-ЗОЛ-ФАЛОС">
 <price>3263</price>
@@ -972,7 +972,7 @@
 <price>12035</price>
 </offer>
 <offer id="01-ВИБ-ПИНГ-ОЗОН-СФ">
-<price>13123</price>
+<price>13175</price>
 </offer>
 <offer id="01-ВИБ-ТРАВЕЛ-ОЗОН-СФ">
 <price>8975</price>
