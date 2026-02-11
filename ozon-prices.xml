@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-11 08:31">
+<yml_catalog date="2026-02-11 09:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -111,7 +111,7 @@
 <price>1060</price>
 </offer>
 <offer id="01-РОЗ-ВИБ-ДЕШ-ОЗОН">
-<price>2900</price>
+<price>2916</price>
 </offer>
 <offer id="01-ВИБ-СВ-КРОЛ-МАЛИН-ОЗОН">
 <price>3916</price>
@@ -120,7 +120,7 @@
 <price>13123</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-53267">
-<price>9605</price>
+<price>9658</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-573794">
 <price>3421</price>
@@ -183,7 +183,7 @@
 <price>14773</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-40392">
-<price>3830</price>
+<price>3851</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-169806">
 <price>4672</price>
@@ -213,7 +213,7 @@
 <price>4420</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-77436">
-<price>3327</price>
+<price>3390</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-577153">
 <price>3836</price>
@@ -264,7 +264,7 @@
 <price>10100</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-53265">
-<price>9605</price>
+<price>9658</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-84678">
 <price>11780</price>
@@ -486,7 +486,7 @@
 <price>4954</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-66370">
-<price>11705</price>
+<price>11968</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-104414">
 <price>7663</price>
@@ -561,7 +561,7 @@
 <price>9028</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-24704">
-<price>4334</price>
+<price>4418</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-249374">
 <price>1658</price>
@@ -669,7 +669,7 @@
 <price>8158</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-66381">
-<price>4488</price>
+<price>4583</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-549535">
 <price>9050</price>
@@ -771,7 +771,7 @@
 <price>4026</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-71605">
-<price>8923</price>
+<price>9080</price>
 </offer>
 <offer id="01-ВИБ-КРОЛ-435787">
 <price>8368</price>
@@ -798,7 +798,7 @@
 <price>17690</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-53266">
-<price>9605</price>
+<price>9658</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-250092">
 <price>5680</price>
