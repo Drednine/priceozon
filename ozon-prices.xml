@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-02-28 01:31">
+<yml_catalog date="2026-02-28 02:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
@@ -135,7 +135,7 @@
 <price>5653</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-536391">
-<price>4021</price>
+<price>3984</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-238423">
 <price>15718</price>
@@ -189,7 +189,7 @@
 <price>3893</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-62082">
-<price>1244</price>
+<price>1238</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-161026">
 <price>4672</price>
