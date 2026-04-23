@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-24 00:31">
+<yml_catalog date="2026-04-24 01:31">
 <shop>
 <offers>
 <offer id="01-ВИБ-РОТОР-БЭЙ-ОЗОН">
@@ -68,14 +68,8 @@
 <offer id="01-ВИБ-МИНИ-180870">
 <price>3002</price>
 </offer>
-<offer id="01-ВИБ-КРОЛ-233253">
-<price>4409</price>
-</offer>
 <offer id="01-ВИБ-ЖЕН-579518">
 <price>4520</price>
-</offer>
-<offer id="01-ВИБ-ЖЕН-371707">
-<price>8398</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-249374">
 <price>1658</price>
