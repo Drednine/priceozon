@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-24 12:31">
+<yml_catalog date="2026-04-24 13:31">
 <shop>
 <offers>
-<offer id="01-ВИБ-РОТОР-БЭЙ-ОЗОН">
-<price>4286</price>
-</offer>
 <offer id="01-ВИБ-СВ-ДЕШ-КРА-ОЗОН">
 <price>3184</price>
 </offer>
@@ -77,9 +74,6 @@
 <offer id="01-ВИБ-ЖЕН-39685">
 <price>4787</price>
 </offer>
-<offer id="01-ВИБ-ЖЕН-286271">
-<price>7423</price>
-</offer>
 <offer id="01-ВИБ-ЖЕН-66381">
 <price>4488</price>
 </offer>
@@ -88,9 +82,6 @@
 </offer>
 <offer id="01-ВИБ-ЖЕН-409225">
 <price>3536</price>
-</offer>
-<offer id="01-ВИБ-ЖЕН-165085">
-<price>4142</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-71605">
 <price>8923</price>
