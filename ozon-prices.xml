@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-07 13:31">
+<yml_catalog date="2026-05-07 14:31">
 <shop>
 <offers>
 <offer id="01-НАС-НА-ЧЛ-КЛИТ-ОЗОН-ПРОЗ">
@@ -46,9 +46,6 @@
 </offer>
 <offer id="01-ВИБ-ЖЕН-62076">
 <price>2277</price>
-</offer>
-<offer id="01-ВИБ-ЖЕН-536391">
-<price>15035</price>
 </offer>
 <offer id="01-ВИБ-ЖЕН-77436">
 <price>3327</price>
