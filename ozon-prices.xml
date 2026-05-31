@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-31 04:31">
+<yml_catalog date="2026-05-31 05:31">
 <shop>
 <offers>
 <offer id="01-МАСТ-ДЛЯ-МУЖ-РОТ-ОЗОН-СА">
 <price>1672</price>
-</offer>
-<offer id="01-ВИБ-СВ-КРОЛ-ФИОЛ-ОЗОН">
-<price>3756</price>
 </offer>
 <offer id="01-ВИБ-СВ-ДЕШ-КРА-ОЗОН">
 <price>3184</price>
 </offer>
 <offer id="01-ВИБ-ПРО+ДЖИ-ОЗОН-СФ">
 <price>13070</price>
-</offer>
-<offer id="01-ЗАВ-ЧАЙ">
-<price>2120</price>
 </offer>
 <offer id="01-РОЗ-ВАГ-ШАР">
 <price>1069</price>
@@ -80,9 +74,6 @@
 <offer id="01-ВИБ-ЖЕН-180869">
 <price>3968</price>
 </offer>
-<offer id="01-ВИБ-ЛИТ-СИК-СФ">
-<price>18143</price>
-</offer>
 <offer id="01-ВИБ-ЖЕН-249374">
 <price>1658</price>
 </offer>
@@ -101,9 +92,6 @@
 <offer id="01-ВИБ-ЖЕН-102024">
 <price>2880</price>
 </offer>
-<offer id="01-ВИБ-ЖЕН-53266">
-<price>9920</price>
-</offer>
 <offer id="01-ВИБ-МИНИ-105486">
 <price>2367</price>
 </offer>
@@ -118,9 +106,6 @@
 </offer>
 <offer id="01-ВИБ-ЖЕН-510929">
 <price>3942</price>
-</offer>
-<offer id="01-ВИБ-ЖЕН-50143">
-<price>4782</price>
 </offer>
 <offer id="01-ВИБ-ПИНГ-ОЗОН-СФ">
 <price>15170</price>
